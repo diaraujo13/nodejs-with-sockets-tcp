@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-with-sockets-tcp",
+  "version": "1.0.0",
+  "description": "Implementação de comunicação via TCP com NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diaraujo13/nodejs-with-sockets-tcp.git"
+  },
+  "author": "Izaías Araújo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diaraujo13/nodejs-with-sockets-tcp/issues"
+  },
+  "homepage": "https://github.com/diaraujo13/nodejs-with-sockets-tcp#readme"
+}
